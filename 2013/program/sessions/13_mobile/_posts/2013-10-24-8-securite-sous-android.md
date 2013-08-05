@@ -5,7 +5,7 @@ author: Philippe PRADOS
 authorpost: philippe-prados
 track: 13_mobile
 web: 
-language: en
+language: fr
 ---
 
 Pourquoi les applications Android doivent se défendre contre de nouvelles menaces ?
